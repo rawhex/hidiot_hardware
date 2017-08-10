@@ -8,7 +8,7 @@ This is the repo for the HIDIOT hardware. It contains the following:
 
 The HIDIOT uses the Arduino IDE in either Trinket or Digispark compatible configuration with the appropriate software. Digispark is the preferred framework. Please see [here](https://github.com/digistump/DigistumpArduino) for source code, including the V-USB library used for communication.
 
-![HIDIOT Schematic](http://imgur.com/jNocCo5)
+![](http://imgur.com/jNocCo5.png)
 
 ## Creating your own HIDIOT
 
