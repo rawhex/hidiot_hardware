@@ -22,4 +22,19 @@ If you're looking to create HIDIOTs commercially, then please make sure that you
 
 ## Partnering with us
 
-We do provide custom board designs and can provide licences and support for various forms of commercial use. Please contact us at support at rawhex dot com. We're happy to work with you!
+We do provide custom board designs and can provide licences and support for various forms of commercial use. Please contact us at support at rawhex dot com. We'd love to work with you!
+
+## Thanks
+
+There are several people we'd like to thank. All of these people helped, possibly without knowing it. Without these people the HIDIOT would not be possible. If you're not on the list and think you should be, drop us a line.
+
+* Sammy Verity
+* Dominic Spill
+* Erik Kettenburg
+* Joe Fitzpatrick
+* Don A. Bailey
+* cpldcpu
+* Jenna Fox
+* ihsan Kehribar
+* Objective Development Software GmBH
+* All of our Kickstarter backers
