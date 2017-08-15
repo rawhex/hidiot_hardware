@@ -31,6 +31,9 @@ There are several people we'd like to thank. All of these people helped, possibl
 * Sammy Verity
 * Dominic Spill
 * Erik Kettenburg
+* Saumil Shah
+* Dhillon 'L33tdawg' Kannabhiran
+* Pete Herzog
 * Joe Fitzpatrick
 * Don A. Bailey
 * cpldcpu
